@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-hari06
+- 👋 Hi, I’m Hari Prasanth
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ... Tailwind css 
 - 💞️ I’m looking to collaborate on ...Small projects to improve my skills
