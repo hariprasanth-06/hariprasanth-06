@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Hari Prasanth
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ... Tailwind css 
-- 💞️ I’m looking to collaborate on ...Small projects to improve my skills
-- 📫 How to reach me  - hariprasanth.shanmugam06@gmail.com ...
-<!---
-coder-hari06/coder-hari06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+\<h2 align="center">Hi, I'm Hari Prasanth 👋\</h2>
+
+\<p align="center">   Software Engineer | Backend Developer \</p>
+
+\<p align="center">   Interested in building scalable applications and exploring new technologies. \</p>
+
+### About Me
+
+- 💻 Passionate about software development.
+- 🌱 Currently exploring Go, Next.js and Tailwind CSS.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🤝 Open to collaborating on interesting projects.
+- 📫 Reach me at: [hariprasanth.shanmugam06@gmail.com](mailto\:hariprasanth.shanmugam06@gmail.com)
+
+### Tech Stack
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=php,laravel,go,nodejs,js,react,nextjs,tailwind,mysql,postgres,git](https://skillicons.dev/icons?i=php,laravel,go,nodejs,js,react,nextjs,tailwind,mysql,postgres,git)" />
+\</p>
+
+### Connect
+
+[GitHub](https://github.com/coder-hari06) · [Email](mailto\:hariprasanth.shanmugam06@gmail.com)
